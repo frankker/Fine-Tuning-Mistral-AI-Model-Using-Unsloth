@@ -9,6 +9,5 @@ The AI model used for this fine-tuning project is Mistral AI's Mistral-7B.
 Refer to the [Unsloth documentation](https://docs.unsloth.ai/) for more information.
 
 <br />
-
 <img src="unsloth.png" width="150" /> <br /> 
-<img src="mistral.png" width="150" />
+<img src="mistral.png" width="155" />
