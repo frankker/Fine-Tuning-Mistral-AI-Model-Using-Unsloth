@@ -11,4 +11,4 @@ Refer to the [Unsloth documentation](https://docs.unsloth.ai/) for more informat
 <br />
 
 <img src="unsloth.png" width="150" /> <br /> 
-<img src=" mistral.png" width="150" />
+<img src="mistral.png" width="150" />
